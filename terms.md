@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Idle Ladder — Terms of Service
 
-_Effective {{EFFECTIVE_DATE}}_
+_Effective November 24, 2026_
 
 These terms are an agreement between you and the developer of Idle Ladder ("the game", "we"). By
 playing, you accept them. Questions: eric@broadarrow.tech.
@@ -55,4 +55,4 @@ accept the new terms.
 
 ## Governing law
 
-These terms are governed by the laws of {{GOVERNING_LAW}}.
+These terms are governed by the laws of the State of California.

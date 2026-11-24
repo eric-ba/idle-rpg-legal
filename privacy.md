@@ -4,11 +4,11 @@ title: Privacy Policy
 
 # Idle Ladder — Privacy Policy
 
-_Effective {{EFFECTIVE_DATE}}_
+_Effective November 24, 2026_
 
 Idle Ladder ("the game", "we") is a mobile game for iOS, offered in the United States and run by
-an independent developer. This policy says
-what the game collects, why, and what you can do about it. Questions: eric@broadarrow.tech.
+an independent developer. This policy says what the game collects, why, and what you can do about
+it. Questions: eric@broadarrow.tech.
 
 ## What we collect
 
@@ -22,7 +22,8 @@ what the game collects, why, and what you can do about it. Questions: eric@broad
 
 We don't collect your location, contacts, photos or advertising ID. The game has no ads, no
 third-party analytics and no tracking across other apps or websites. Reminders are local
-notifications scheduled on your device; we don't receive a push token.
+notifications scheduled on your device; we don't receive a push token. Because we don't track you across
+other apps or websites, "Do Not Track" signals don't change what we collect.
 
 ## Who can see it
 
