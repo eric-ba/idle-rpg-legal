@@ -1,8 +1,8 @@
 ---
-title: Idle Ladder
+title: Idle Ladder Heroes
 ---
 
-# Idle Ladder
+# Idle Ladder Heroes
 
 - [Privacy Policy](privacy)
 - [Terms of Service](terms)

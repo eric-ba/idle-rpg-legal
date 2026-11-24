@@ -2,12 +2,12 @@
 title: Terms of Service
 ---
 
-# Idle Ladder — Terms of Service
+# Idle Ladder Heroes — Terms of Service
 
 _Effective November 24, 2026_
 
-These terms are an agreement between you and the developer of Idle Ladder ("the game", "we"). By
-playing, you accept them. Questions: eric@broadarrow.tech.
+These terms are an agreement between you and the developer of Idle Ladder Heroes ("the game",
+"we"). By playing, you accept them. Questions: eric@broadarrow.tech.
 
 ## Who can play
 
@@ -16,7 +16,7 @@ person.
 
 ## Your account
 
-You sign in with Apple or Google, and you're responsible for what happens on your account. You can
+You sign in with Apple, and you're responsible for what happens on your account. You can
 delete it at any time from **Settings → Delete account**.
 
 ## Items, gold and other in-game content

@@ -2,11 +2,11 @@
 title: Privacy Policy
 ---
 
-# Idle Ladder — Privacy Policy
+# Idle Ladder Heroes — Privacy Policy
 
 _Effective November 24, 2026_
 
-Idle Ladder ("the game", "we") is a mobile game for iOS, offered in the United States and run by
+Idle Ladder Heroes ("the game", "we") is a mobile game for iOS, offered in the United States and run by
 an independent developer. This policy says what the game collects, why, and what you can do about
 it. Questions: eric@broadarrow.tech.
 
@@ -14,7 +14,7 @@ it. Questions: eric@broadarrow.tech.
 
 | Data | Where it comes from | Why |
 |---|---|---|
-| A sign-in identifier from Apple or Google | Sign in with Apple / Google | To know which account is yours. We receive an opaque ID only — not your email address, name or contacts. |
+| A sign-in identifier from Apple | Sign in with Apple | To know which account is yours. We receive an opaque ID only — not your email address, name or contacts. |
 | Your character name | You choose it | Shown to other players on leaderboards, profiles and the marketplace. |
 | Game data: progress, items, gold, fights, marketplace listings and sales | Playing the game | To run the game. |
 | Reports and blocks you make, with any note you write | You submit them | To moderate the game. |
@@ -49,8 +49,9 @@ You can also ask us at eric@broadarrow.tech for a copy of your data or to correc
 
 ## Children
 
-The game is for people aged 13 and over. We don't knowingly collect data from children under 13.
-If you believe a child under 13 has an account, contact us and we'll delete it.
+The game is for people aged 13 and over. Before you sign in, the game asks for your birth month
+and year; the answer stays on your device and isn't sent to us. We don't knowingly collect data from
+children under 13. If you believe a child under 13 has an account, contact us and we'll delete it.
 
 ## Changes
 
