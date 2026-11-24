@@ -7,11 +7,12 @@ title: Terms of Service
 _Effective {{EFFECTIVE_DATE}}_
 
 These terms are an agreement between you and the developer of Idle Ladder ("the game", "we"). By
-playing, you accept them. Questions: {{CONTACT_EMAIL}}.
+playing, you accept them. Questions: eric@broadarrow.tech.
 
 ## Who can play
 
-You must be at least 13 years old. One account per person.
+The game is offered in the United States. You must be at least 13 years old. One account per
+person.
 
 ## Your account
 

@@ -6,8 +6,9 @@ title: Privacy Policy
 
 _Effective {{EFFECTIVE_DATE}}_
 
-Idle Ladder ("the game", "we") is a mobile game run by an independent developer. This policy says
-what the game collects, why, and what you can do about it. Questions: {{CONTACT_EMAIL}}.
+Idle Ladder ("the game", "we") is a mobile game for iOS, offered in the United States and run by
+an independent developer. This policy says
+what the game collects, why, and what you can do about it. Questions: eric@broadarrow.tech.
 
 ## What we collect
 
@@ -43,7 +44,7 @@ identifier, replaces your character name, takes your items and gold out of the g
 sessions. Some game records (for example, a record that an item was sold) stay for auditing but are
 no longer linked to you. Signing in again afterwards starts a new account.
 
-You can also ask us at {{CONTACT_EMAIL}} for a copy of your data or to correct it.
+You can also ask us at eric@broadarrow.tech for a copy of your data or to correct it.
 
 ## Children
 

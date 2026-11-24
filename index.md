@@ -7,4 +7,4 @@ title: Idle Ladder
 - [Privacy Policy](privacy)
 - [Terms of Service](terms)
 
-Contact: {{CONTACT_EMAIL}}
+Contact: eric@broadarrow.tech
